@@ -1,0 +1,18 @@
+{
+  "network": "sepolia",
+  "chainId": 11155111,
+  "deployer": "0xEeC0f92f903A3e4F1AC690e7e8925F23A3b33A63",
+  "implementations": {
+    "token": "0x90f9a297A615C871d36126E739Da04Ec3e63fC11",
+    "claimTopicsRegistry": "0x6A9180733F51064E3f5767c11e8A9115E193d865",
+    "trustedIssuersRegistry": "0x6678bf11BF58f27A6CB6CBEEEE1f01aa6F952219",
+    "identityRegistryStorage": "0xac3C7112E3871eDf2CC4238C542460adA8b14A4d",
+    "identityRegistry": "0x1D4D959573C3597Bb4463f1B13F88FA7eAb9B307",
+    "modularCompliance": "0x6788ce847527D608c97FE97F08ea54052E4c5d69"
+  },
+  "implementationAuthority": "0x1ce4d4ceba0764bD5E7320D15DB9BDC60357f9e9",
+  "idFactory": "0xbA5EB469fed18De2bF7E09B78761c94e37a5440F",
+  "trexFactory": "0xeb805bcAAB75faFbB8Bd977B93741212C73d3483",
+  "trexGateway": "0x1eBc7aC9CfCDa48a15d13C541278ab1Ac6851556",
+  "deployedAt": "2025-10-19T17:00:15.703Z"
+}
